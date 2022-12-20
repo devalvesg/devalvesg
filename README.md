@@ -13,5 +13,5 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvesg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Ainda estou cursando o ensino médio, mas tenho como objetivo fazer um curso superior focado na área de programação, pois é uma área que sou apaixonado
-e gosto de aprender cada vez mais sobre ela. 💻💻
+Atualmente tenho ensino médio completo com Tecnico em Administração, e agora estou indo para um novo caminho, cursando Engenharia de Software no Ensino Superior, pois eu gosto muito da área de tecnologia e cada dia mais busco aprender sobre ela!!! 💻💻
+
