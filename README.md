@@ -4,7 +4,8 @@
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-895a61238)
    
    ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvesg&show_icons=true&theme=tokyonight)
-   
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
    
    
    Linguagens que eu mais uso:
