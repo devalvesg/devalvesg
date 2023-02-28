@@ -4,14 +4,15 @@
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-895a61238)
    
    ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvesg&show_icons=true&theme=tokyonight)
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-   
-   
+ 
    Linguagens que eu mais uso:
-   
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvesg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   <div style="display: inline_block"><br>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+   </div>
+
 
 
 Atualmente tenho ensino médio completo com Tecnico em Administração, e agora estou indo para um novo caminho, cursando Engenharia de Software no Ensino Superior, pois eu gosto muito da área de tecnologia e cada dia mais busco aprender sobre ela!!! 💻💻
