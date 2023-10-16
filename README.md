@@ -5,7 +5,7 @@
    <a href = "mailto:gabrieldamasceno881@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
    
    ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvesg&show_icons=true&theme=tokyonight)
- 
+   [![Gabriel top languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&theme=blue-white](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvesg&theme=blue-white))](https://github.com/anuraghazra/github-readme-stats)
    Linguagens que eu mais utilizo:
    <div style="display: inline_block">
    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
