@@ -8,17 +8,9 @@
    Atualmente tenho ensino médio completo com Tecnico em Administração, e agora estou indo para um novo caminho, cursando Engenharia de Software no Ensino Superior, sigo desenvolvendo projetos pessoais e também na              faculdade, estou a procura de um estágio para adquirir mais conhecimento e também colocar em prática tudo que venho aprendendo.
    </p>
    <br>
-   Linguagens que eu mais utilizo:
-   <div style="display: inline_block">
-   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-
    
-   ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvesg&show_icons=true&theme=tokyonight)
-   <br>
    ![Gabriel top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvesg&theme=yellow-black)
+   <br>
+   ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvesg&show_icons=true&theme=tokyonight)
    </div>
 
