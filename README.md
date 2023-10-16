@@ -16,7 +16,7 @@
    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 
-      <br>
+   
    ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvesg&show_icons=true&theme=tokyonight)
    <br>
    ![Gabriel top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvesg&theme=yellow-black)
