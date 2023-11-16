@@ -5,7 +5,7 @@
    <a href = "mailto:gabrieldamasceno881@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
    <p>
 <br>
-   Atualmente tenho ensino médio completo com Tecnico em Administração, e agora estou indo para um novo caminho, cursando Engenharia de Software no Ensino Superior, sigo desenvolvendo projetos pessoais e também na              faculdade, estou a procura de um estágio para adquirir mais conhecimento e também colocar em prática tudo que venho aprendendo.
+   Atualmente tenho ensino médio completo com Tecnico em Administração, e agora estou indo para um novo caminho, cursando Engenharia de Software no Ensino Superior, sigo desenvolvendo projetos pessoais e também na              faculdade. Trabalho na empresa [Lampejos](https://lampejos.com.br/) atuando como estagiário Front-end, desenvolvendo sites/sistemas, dando manutenção e evoluindo profissionalmente.
    </p>
    <br>
    
