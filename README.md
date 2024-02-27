@@ -2,7 +2,7 @@
 <h1>Hellow world! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/gabriel-alves-895a61238/)
-[![Outlook](![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white))](mailto:gabrieldamasceno881@outlook.com)
+[![Outlook Badge](![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white))](mailto:gabrieldamasceno881@outlook.com)
 
 
 ## Meu nome é Gabriel Alves
