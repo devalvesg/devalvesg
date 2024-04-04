@@ -12,7 +12,9 @@
 - 💡 Gosta de desafios e de encara-los
 
 <div align="left">
-  
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,react,gcp,kafka,rabbitmq,docker,git,idea,maven,)](https://skillicons.dev)
+
 [![Melhores Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvesg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
