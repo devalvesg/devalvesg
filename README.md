@@ -9,7 +9,6 @@
   </a>
 </p>
 
-<br>
 <div>
 <h2 align="center"> Meu nome é Gabriel Alves</h2>
 <ul>
@@ -27,20 +26,10 @@
 </div>
 <br>
 <div>
-<h2 align="center" id="#removerLinha">Estatística 📖</h2>
+<h2 align="center">Estatística 📖</h2>
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devalvesg&layout=compact&hide_border=true&theme=tokyonight"><a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalvesg&theme=tokyonight" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
 </p>
 </div>
 
-  
 
-
-<style>
-    #removerLinha::after {
-        content: '';
-        display: block;
-        height: 0;
-        border-top: none;
-    }
-</style>
