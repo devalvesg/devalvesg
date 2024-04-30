@@ -1,22 +1,32 @@
 
-<h1>Hellow world! 👋</h1>
+<h1 align="center">Hellow world! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/gabriel-alves-895a61238/)
-[![Gmail Badge](https://img.shields.io/badge/-gabrieldamasceno881@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldamasceno881@outlook.com)](mailto:gabrieldamasceno881@outlook.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dev-gabriel-alves/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  <a href="mailto:gabrieldamasceno881@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook">
+  </a>
+</p>
 
-
-## Meu nome é Gabriel Alves
-( Java | Spring Framework | SQL | MongoDB | Docker | GCP | Angular/React) 🚀
-- 🎓 Estudante de Engenharia de Software [Uni-FACEF](https://www.unifacef.com.br/)
+<h2> Meu nome é Gabriel Alves </h2>
+- 🎓 Sou Estudante de Engenharia de Software [Uni-FACEF](https://www.unifacef.com.br/)
 - 🌐 Encantado pelo universo backend
-- 💡 Gosta de desafios e de encara-los
+- 💡 Gosto de desafios e de encara-los
 
-<div align="left">
-
+<br><br>
+<h2 align="center">🚀 Principais tecnologias:</h2>
+<div align="center">
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,postgres,gcp,kafka,rabbitmq,docker,git,maven,idea)](https://skillicons.dev)
+</div>
 
-[![Melhores Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvesg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devalvesg&layout=compact&hide_border=true&theme=tokyonight"><a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalvesg&theme=tokyonight" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
+</p>
+
   
- </div>
+
 
 
