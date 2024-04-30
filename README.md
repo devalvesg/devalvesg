@@ -12,6 +12,7 @@
 <br>
 <div>
 <h2 align="center"> Meu nome é Gabriel Alves</h2>
+  <br>
 <ul>
   <li>🎓 Sou Estudante de Engenharia de Software <a href="https://www.unifacef.com.br/">Uni-FACEF</a></li>
   <li>🌐 Encantado pelo universo backend</li>
