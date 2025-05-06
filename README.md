@@ -21,7 +21,7 @@
 <div>
 <h2 align="center">Principais tecnologias 🚀</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,gcp,kafka,rabbitmq,docker,git,maven,idea,&perline=14" />
+<img src="https:///skillicons.devicons?i=java,spring,c#,.NET,sql,aws,azure,git,docker,&perline=14" />
 </div>
 </div>
 <br>
