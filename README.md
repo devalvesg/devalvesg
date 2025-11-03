@@ -14,7 +14,7 @@
 <ul>
   <li>🎓 Sou Estudante de Engenharia de Software <a href="https://www.unifacef.com.br/">Uni-FACEF</a></li>
   <li>🌐 Atuo como Desenvolvedor Fullstack Pleno</li>
-  <li>💡 AWS Certified</li>
+  <li>💡 1x AWS Certified</li>
 </ul>
 </div>
 <br>
